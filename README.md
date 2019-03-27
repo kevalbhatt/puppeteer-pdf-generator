@@ -8,7 +8,7 @@ Let's assume you have React, Angular, Backbone or any Javascript UI which is run
 
 Internally server starts the headless browser and opens the http://localhost:3000 application and create the pdf (i.e print layout). 
 
-Note: Server-side pdf generator code is hardcoded so you will get sam pdf every time.
+Note: Server-side pdf generator code is hardcoded so you will get same pdf every time.
 
 # How to run
 
