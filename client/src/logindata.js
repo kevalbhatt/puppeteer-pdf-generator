@@ -1,0 +1,90 @@
+export default [{
+  name: "abc",
+  userType: "admin",
+  loggedIn: 10,
+  lastLoggin: "20/03/2019"
+}, {
+  name: "def",
+  userType: "student",
+  loggedIn: 12,
+  lastLoggin: "21/03/2019"
+}, {
+  name: "ghi",
+  userType: "admin",
+  loggedIn: 40,
+  lastLoggin: "19/03/2019"
+}, {
+  name: "jkl",
+  userType: "student",
+  loggedIn: 12,
+  lastLoggin: "22/03/2019"
+}, {
+  name: "mno",
+  userType: "student",
+  lastLoggin: "19/03/2019"
+}, {
+  name: "pqr",
+  userType: "student",
+  loggedIn: 12,
+  lastLoggin: "18/03/2019"
+}, {
+  name: "stu",
+  userType: "teacher",
+  loggedIn: 12,
+  lastLoggin: "19/03/2019"
+}, {
+  name: "vwx",
+  userType: "student",
+  loggedIn: 12,
+  lastLoggin: "10/03/2019"
+}, {
+  name: "xyz",
+  userType: "student",
+  loggedIn: 12,
+  lastLoggin: "11/03/2019"
+}, {
+  name: "1abc",
+  userType: "admin",
+  loggedIn: 54,
+  lastLoggin: "9/03/2019"
+}, {
+  name: "1def",
+  userType: "admin",
+  loggedIn: 120,
+  lastLoggin: "15/03/2019"
+}, {
+  name: "1ghi",
+  userType: "teacher",
+  loggedIn: 12,
+  lastLoggin: "16/03/2019"
+}, {
+  name: "1jkl",
+  userType: "student",
+  loggedIn: 112,
+  lastLoggin: "20/03/2019"
+}, {
+  name: "1mno",
+  userType: "student",
+  loggedIn: 120,
+  lastLoggin: "20/03/2019"
+}, {
+  name: "1pqr",
+  userType: "student",
+  loggedIn: 11,
+  lastLoggin: "20/03/2019"
+}, {
+  name: "1stu",
+  userType: "teacher",
+  loggedIn: 22,
+  lastLoggin: "19/03/2019"
+}, {
+  name: "1vwx",
+  userType: "teacher",
+  loggedIn: 12,
+  lastLoggin: "19/03/2019"
+}, {
+  name: "1xyz",
+  userType: "teacher",
+  loggedIn: 12,
+  lastLoggin: "20/03/2019"
+}];

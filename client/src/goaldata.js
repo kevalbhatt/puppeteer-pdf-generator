@@ -1,0 +1,50 @@
+export default [{
+  name: "student1",
+  goalA: 30,
+  goalAComplete: 20,
+  goalS: 50,
+  goalsComplete: 10,
+  classRoom: "test"
+}, {
+  name: "student11",
+  goalA: 30,
+  goalAComplete: 50,
+  goalS: 50,
+  goalsComplete: 10,
+  classRoom: "test"
+}, {
+  name: "student2",
+  goalA: 30,
+  goalAComplete: 20,
+  goalS: 50,
+  goalsComplete: 10,
+  classRoom: "abc"
+}, {
+  name: "student3",
+  goalA: 70,
+  goalAComplete: 12,
+  goalS: 80,
+  goalsComplete: 20,
+  classRoom: "cxz"
+}, {
+  name: "student4",
+  goalA: 100,
+  goalAComplete: 30,
+  goalS: 80,
+  goalsComplete: 20,
+  classRoom: "xz"
+}, {
+  name: "student5",
+  goalA: 90,
+  goalAComplete: 30,
+  goalS: 80,
+  goalsComplete: 20,
+  classRoom: "zzz"
+}, {
+  name: "student6",
+  goalA: 20,
+  goalAComplete: 10,
+  goalS: 70,
+  goalsComplete: 20,
+  classRoom: "df"
+}];

@@ -1,0 +1,43 @@
+.react-filter-box {
+  height: 38px;
+}
+
+li.CodeMirror-hint-active {
+  background: inherit;
+  color: inherit;
+}
+
+.fade.in {
+  opacity: 1;
+}
+
+.select {
+  width: 10%;
+  display: inline-block;
+  height: 48px;
+  float: left;
+  border-radius: 0px;
+}
+
+.visual_search.react_visual_search {
+  width: 78% !important;
+  display: inline-block;
+  float: left;
+}
+
+a.download {
+  display: inline-block;
+  height: 49px;
+  float: left;
+  line-height: 36px;
+}
+
+@media print {
+  a.download {
+    display: none;
+  }
+
+  .visual_search.react_visual_search {
+    width: 90% !important;
+  }
+}
