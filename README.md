@@ -6,7 +6,7 @@ It will generate a pdf using the client component (it can be any tech i.e backbo
 
 Let's assume you have React, Angular, Backbone or any Javascript UI which is running on http://localhost:3000. and the server is running on http://localhost:3001. Now when you want to download the pdf we will hit the API (http://localhost:3001/export/pdf)
 
-Internally server starts a headless browser and opens the http://localhost:3000 application and create the pdf (i.e print layout). 
+Internally server starts a headless browser and opens http://localhost:3000 application and create the pdf (i.e print layout). 
 
 Note: Server-side pdf generator code is hardcoded so you will get same pdf every time.
 
